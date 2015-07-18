@@ -1,4 +1,4 @@
-#This is a test for an abstract homeword
+#This is a test for an abstract homework
 stud_id = input('Enter your name and surname seperated by a space (First Letters of name and surname in uppercase): ')
 w = []
 question1 = 'What is the sum of all the angles of a triange?'
